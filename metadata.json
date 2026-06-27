@@ -1,0 +1,6 @@
+{
+  "name": "상담회기보고서 AI 작성기",
+  "description": "고용복지플러스센터 상담사를 위한 회기별 상담보고서 자동 작성 및 관리 솔루션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
